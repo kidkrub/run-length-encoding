@@ -1,0 +1,10 @@
+{
+  "name": "run-length-encoding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kidkrub <kritsadamoungkhao@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "encode": "node index.js"
+  }
+}
